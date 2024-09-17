@@ -1,9 +1,10 @@
 import './App.css';
+import TableComp from './components/Table';
 
 function App() {
   return (
     <div className="App">
-      Born To Achieve Great Things!
+      <TableComp />
     </div>
   );
 }
